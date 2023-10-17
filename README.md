@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tailsxz
+- 👋 Hi, I’m Tai!
 - 👀 I’m interested in Web/Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Beginner Projects
