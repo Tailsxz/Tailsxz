@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tai!
 - 👀 I’m interested in Web/Software Development
-- 🌱 I’m currently learning JavaScript Objects!
+- 🌱 I’m currently learning JavaScript OOP!
 - 💞️ I’m looking to collaborate on Beginner Projects
 - 📫 Email me at ptai7722@gmail.com
 
