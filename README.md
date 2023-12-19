@@ -13,7 +13,7 @@
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="express.js" width="40" height="40" style="padding-right: 10px; background:#fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+<img align="left" alt="express.js" width="40" height="40" style="padding-right: 10px;" src="https://icons8.com/icon/2ZOaTclOqD4q/express-js">
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -21,9 +21,8 @@
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-<img align="left" width="40" height="40" style="padding-right: 10px; margin-block-end: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-
-
+<img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+          
 <h2><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailsxz&show_icons=true&theme=synthwave&title_color=0a0c10&text_color=0a0c10&bg_color=85ebff&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tailsxz" /></h2>
 
 <h2><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailsxz&theme=highcontrast" alt="tailsxz" /></h2>
