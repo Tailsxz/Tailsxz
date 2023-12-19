@@ -24,7 +24,7 @@
 <br />
 <br />
           
-#
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailsxz&show_icons=true&theme=synthwave&title_color=0a0c10&text_color=0a0c10&bg_color=85ebff&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tailsxz" />  </p>
 
