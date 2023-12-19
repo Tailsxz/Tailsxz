@@ -1,6 +1,6 @@
 <h1 align="center"> 👏 🌎</h1>
 #
-<img align="center" src="/assets/Name.gif">
+<p align="center"><img src="/assets/Name.gif"></p>
 
 ---
 
