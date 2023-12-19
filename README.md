@@ -3,12 +3,12 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p style="padding-right: 10px;">
-          <a style="padding-right: 10px;" href="https://twitter.com/tailsdevin" target="blank"><img width="30px" height="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-</p>
-<p style="padding-right: 10px;">
-          <a style="padding-right: 10px;" href="https://www.linkedin.com/in/ptai/" target="blank"><img width="30px" height="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
+<span style="padding-right: 10px;">
+          <a style="padding-right: 10px;" href="https://twitter.com/tailsdevin" target="blank"><img width="40px" height="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+</span>
+<span style="padding-right: 10px;">
+          <a style="padding-right: 10px;" href="https://www.linkedin.com/in/ptai/" target="blank"><img width="40px" height="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</span>
 
 
 </p>
