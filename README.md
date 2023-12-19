@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a style="padding-right: 10px;" href="https://twitter.com/tailsdevin" target="blank"><img width="30px" height="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-<a style="padding-right: 10px;" href="https://www.linkedin.com/in/ptai/" target="blank"><img width="40px" height="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a style="padding-right: 10px;" href="https://www.linkedin.com/in/ptai/" target="blank"><img width="40px" height="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 ### Languages and Tools
 
