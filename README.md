@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailsxz&show_icons=true&theme=synthwave&title_color=0a0c10&text_color=0a0c10&bg_color=85ebff&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tailsxz" />  </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailsxz&theme=ocean-gradient" alt="tailsxz" />  </p>
+
+<a href="https://www.codewars.com/users/Tailsxz" target="_blank"><img src="https://www.codewars.com/users/Tailsxz/badges/small" alt="codewars badge"/></a>
