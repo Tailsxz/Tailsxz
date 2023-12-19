@@ -22,7 +22,8 @@
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img align="left" width="40" height="40" style="padding-right: 10px; margin-block-end: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-          
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailsxz&show_icons=true&theme=synthwave&title_color=0a0c10&text_color=0a0c10&bg_color=85ebff&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tailsxz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailsxz&theme=highcontrast" alt="tailsxz" /></p>
+
+<h2><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailsxz&show_icons=true&theme=synthwave&title_color=0a0c10&text_color=0a0c10&bg_color=85ebff&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tailsxz" /></h2>
+
+<h2><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailsxz&theme=highcontrast" alt="tailsxz" /></h2>
