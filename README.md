@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tailsdevin" target="blank"><img align="center" style="padding-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tailsdevin" height="30" width="30px" /></a>
-<a href="https://www.linkedin.com/in/ptai/" target="blank"><img align="center" style="padding-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ptai/" height="30" width="30" /></a>
+<a href="https://twitter.com/tailsdevin" target="blank"><img align="center" style="padding-right: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tailsdevin" height="30" width="30px" /></a>
+<a href="https://www.linkedin.com/in/ptai/" target="blank"><img align="center" style="padding-right: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ptai/" height="30" width="30" /></a>
 </p>
 
 ### Languages and Tools
