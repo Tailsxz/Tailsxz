@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full-stack Developer focused on making the Web interactive and pleasant to use!</h3>
+<h3 align="left">A passionate Full-stack Developer focused on making the Web interactive and pleasant to use!</h3>
 
 - 🔭 I’m currently working on optimizing [My Memorial Website for my beloved Max](https://iloveyoumax.netlify.app/)
 
