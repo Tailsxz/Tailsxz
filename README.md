@@ -1,5 +1,9 @@
 <h1 align="center"> 👏 🌎 <br /><br /> <img src="/assets/Name.gif"> </h1>
-
+<p>A passionate Full-stack developer focusing on bringing ideas to life! 🎈
+  I am currently focusing on developing interactive and responsive Full-stack web applications with the aim to make the Web a pleasant experience for everyone!
+  My love for learning is evergreen and a successful day in my book is a day where I have expanded my knowledge in some way, whether it be learning the deeper intricacies of Web Development or just about anything I'm interested in at the time.
+  My hobbies include Speedcubing, playing video games, and spending quality time with my pets. I absolutely adore Old School RuneScape and I am always looking for new friends to play with!
+  </p>
 ---
 
 <h3 align="left">Connect with me:</h3>
