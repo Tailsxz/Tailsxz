@@ -28,7 +28,3 @@
 <img align="left" width="30px" height="30px" style="padding-right: 10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <br />
 <br />
-          
----
-
-<a href="https://www.codewars.com/users/Tailsxz" target="_blank"><img src="https://www.codewars.com/users/Tailsxz/badges/small" alt="codewars badge"/></a>
